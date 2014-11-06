@@ -1,0 +1,14 @@
+@!(model)
+{
+  "name": "@model.Service",
+  "version": "0.1.0",
+  "description": "API server for @model.Service service",
+  "dependencies": {
+  	"restify":"2.7.x",
+  	"winston":"0.7.x",
+  	"JSONPath":"0.10.x",
+  	"async":"0.9.x",
+  	"request":"2.36.*"
+  },
+  "engine": "node>=0.10.22"
+}
