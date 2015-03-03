@@ -1,1 +1,1 @@
-tidl noderestify template
+tidl node restify template
